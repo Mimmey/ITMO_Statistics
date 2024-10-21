@@ -1,2 +1,2 @@
 # ITMO_Statistics
-ITMO Statistics course
+ITMO Master's Statistics course homeworks
